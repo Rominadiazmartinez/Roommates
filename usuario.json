@@ -1,0 +1,28 @@
+{
+    "roommates": [
+        {
+            "id": "72c00c",
+            "nombre": "Carlos",
+            "apellido": "Ruiz",
+            "correo": "carlos.ruiz@example.com",
+            "debe": 0,
+            "recibe": 0
+        },
+        {
+            "id": "5c6acd",
+            "nombre": "Nils",
+            "apellido": "Sanchez",
+            "correo": "nils.sanchez@example.com",
+            "debe": 0,
+            "recibe": 0
+        },
+        {
+            "id": "82c00c",
+            "nombre": "Alejandro",
+            "apellido": "Beristain",
+            "correo": "alejandro_beristain@hotmail.com",
+            "debe": 0,
+            "recibe": 0
+        }
+    ]
+}

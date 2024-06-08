@@ -1,0 +1,58 @@
+{
+    "gastos": [
+        {
+            "id": "bed949",
+            "roommate": "Alejandro",
+            "descripcion": "Articulos de limpieza",
+            "monto": 15000
+        },
+        {
+            "id": "1b1979",
+            "roommate": "Alejandro",
+            "descripcion": "Articulos de limpieza",
+            "monto": 15000
+        },
+        {
+            "id": "5dff1e",
+            "roommate": "Alejandro",
+            "descripcion": "Articulos de limpieza",
+            "monto": 15000
+        },
+        {
+            "id": "2fad8e",
+            "roommate": "Alejandro",
+            "descripcion": "Articulos de limpieza",
+            "monto": 15000
+        },
+        {
+            "id": "4c34a8",
+            "roommate": "Alejandro",
+            "descripcion": "Articulos de limpieza",
+            "monto": 15000
+        },
+        {
+            "id": "147326",
+            "roommate": "Alejandro",
+            "descripcion": "Articulos de limpieza",
+            "monto": 15000
+        },
+        {
+            "id": "e007ed",
+            "roommate": "Alejandro",
+            "descripcion": "Articulos de limpieza",
+            "monto": 15000
+        },
+        {
+            "id": "0ae7c8",
+            "roommate": "Alejandro",
+            "descripcion": "Articulos de limpieza",
+            "monto": 15000
+        },
+        {
+            "id": "41521e",
+            "roommate": "Alejandro",
+            "descripcion": "Articulos de limpieza",
+            "monto": 15000
+        }
+    ]
+}
